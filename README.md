@@ -6,7 +6,6 @@ A **Flutter-powered** movie streaming app with a sleek and modern UI. Stream you
 - 📺 **Trending & Popular Movies**
 - 🔍 **Smart Search for Movies & Shows**
 - 🎞 **Detailed Movie Info & Ratings**
-- 🌓 **Dark Theme for a Cinematic Feel**
 - ⚡ **Smooth & Responsive UI**
 
 ## 🛠 Setup
