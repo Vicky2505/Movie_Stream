@@ -60,6 +60,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+  #App Preview
+    - images/movie_stream_app.png
   # Homescreen images
     - images/home_assets/avenger_endgame.png
     - images/home_assets/ready_player_one.png

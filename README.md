@@ -13,3 +13,6 @@ A **Flutter-powered** movie streaming app with a sleek and modern UI. Stream you
 ### Clone the Repository:
 ```sh
 git clone https://github.com/your-username/your-repository.git
+
+### 📷 App Preview:
+![Movie Streaming App UI](images/movie_stream_app.png)
