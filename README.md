@@ -1,16 +1,16 @@
-# movie_stream
+# 🎬 Movie Streaming App
 
-A new Flutter project.
+A **Flutter-powered** movie streaming app with a sleek and modern UI. Stream your favorite movies, TV series, and more with an immersive experience.
 
-## Getting Started
+## 🚀 Features:
+- 📺 **Trending & Popular Movies**
+- 🔍 **Smart Search for Movies & Shows**
+- 🎞 **Detailed Movie Info & Ratings**
+- 🌓 **Dark Theme for a Cinematic Feel**
+- ⚡ **Smooth & Responsive UI**
 
-This project is a starting point for a Flutter application.
+## 🛠 Setup
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the Repository:
+```sh
+git clone https://github.com/your-username/your-repository.git
