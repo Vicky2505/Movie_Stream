@@ -9,9 +9,22 @@ A **Flutter-powered** movie streaming app with a sleek and modern UI. Stream you
 - ⚡ **Smooth & Responsive UI**
 
 
-### 📷 App Preview:
+## 📷 App Preview:
 ![image alt](https://github.com/Vicky2505/Movie_Stream/blob/main/images/movie_stream_app.png?raw=true)
 
-### Clone the Repository:
+## 📥 Installation & Setup
+Follow these simple steps to get started:
+
 ```sh
+# Clone the repository
 git clone https://github.com/Vicky2505/Movie_Stream.git
+
+# Navigate to the project folder
+cd Movie_Stream
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
